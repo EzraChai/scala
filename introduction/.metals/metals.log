@@ -1,0 +1,13 @@
+2022.10.23 14:19:51 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/ezrachai/Documents/code/scala/introduction/.metals/lsp.trace.json or /home/ezrachai/.cache/metals/lsp.trace.json[0m
+2022.10.23 14:19:52 INFO  logging to file /home/ezrachai/Documents/code/scala/introduction/.metals/metals.log[0m
+2022.10.23 14:19:52 INFO  Started: Metals version 0.11.9 in workspace '/home/ezrachai/Documents/code/scala/introduction' for client Visual Studio Code 1.71.2.[0m
+2022.10.23 14:20:01 INFO  time: initialize in 8.44s[0m
+2022.10.23 14:20:04 WARN  Build server is not auto-connectable.[0m
+2022.10.23 14:20:04 WARN  no build tool detected in workspace '/home/ezrachai/Documents/code/scala/introduction'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2022.10.23 14:20:04 WARN  no build target for: /home/ezrachai/Documents/code/scala/introduction/HelloScala.scala[0m
+2022.10.23 14:20:21 INFO  no build target found for /home/ezrachai/Documents/code/scala/introduction/HelloScala.scala. Using presentation compiler with project's scala-library version: 3.2.0[0m
+2022.10.23 14:20:23 INFO  time: code lens generation in 18s[0m
+2022.10.23 14:21:47 WARN  no build target for: /home/ezrachai/Documents/code/scala/introduction/HelloScala.scala[0m
+2022.10.23 14:22:17 WARN  no build target for: /home/ezrachai/Documents/code/scala/introduction/HelloScala.scala[0m
+2022.10.23 14:22:22 WARN  no build target for: /home/ezrachai/Documents/code/scala/introduction/HelloScala.scala[0m
+2022.10.23 14:22:38 WARN  no build target for: /home/ezrachai/Documents/code/scala/introduction/HelloScala.scala[0m
