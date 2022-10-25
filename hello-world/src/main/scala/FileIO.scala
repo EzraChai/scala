@@ -6,7 +6,7 @@ object FileIO {
     Source.fromFile("/home/ezrachai/Documents/code/scala/hello-world/src/main/resources/test.txt").foreach(print)
 
     val writter  = new PrintWriter(new File("/home/ezrachai/Documents/code/scala/hello-world/src/main/resources/output.txt"))
-    writter.write("Zoewin Tan")
+    writter.write("Chloe Gan")
     writter.close()
   }
 }
